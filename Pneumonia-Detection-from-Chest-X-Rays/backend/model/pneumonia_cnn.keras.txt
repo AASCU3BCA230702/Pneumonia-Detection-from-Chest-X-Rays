@@ -1,0 +1,1 @@
+Please try to run the notebook folder files in Google Colab. Once completed, the model will be available for download. Please download the model, place it in the same path, and then try to run the application.
